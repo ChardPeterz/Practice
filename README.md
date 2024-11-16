@@ -1,2 +1,6 @@
-# Practice
-This is my practice repo where i will be creating a simple to do list in different languages/using different frameworks
+<h2 align="center"> Future Plans </h2>
+
+1.Make toDo list simply using html, css and javascript.
+2.Make toDo list simply using html,bootstrap,jquery.
+3.Make toDo list simply using html,sass,python.
+4.Make toDo list simply using html,react,javascript.
