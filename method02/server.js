@@ -3,7 +3,7 @@ const app= express();
 
 app.use((req,res)=>{
     console.log('request received');
-    res.send('response');
+    res.sendFile('./toDo.html');
 })
 
 app.listen(8000, () => {
